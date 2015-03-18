@@ -5,7 +5,7 @@ ___
 #####Purpose
 The 5 Year Ignition Data is used in FDOD to help visualize vegetation fire occurrence in San Luis Obispo. This graph is created using an excel spreadsheet. The main aspect of this graphic is to display the cause totals by percentage.
 #####Location
-						C://_projects/Ignition_Plan/5 Year Ignitions(SLU)2009_2013 
+						C://_projects/Ignition_Plan/5 Year Ignitions(SLU)2010_2014 
 
 #####Working with the Fire Data
 This excel document houses the fire data required to create the table, the pivot charts used to create the graphics, and graphics used in the document. Export the fire data for the date range necessary to update FDOP using the WebRPT site credentials (Refer to the [FDOP](http://slocountyfire.org/FDOP/) website under the 'Fire' section for directions to export fire data).  
